@@ -5,3 +5,9 @@
 #tag-2 {
   display: none;
 }
+#tag-3 {
+  display: none;
+}
+.parent #tag-4 {
+  display: none;
+}
