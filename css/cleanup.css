@@ -2,10 +2,10 @@
 #wall .tag-1 {
   display: none;
 }
-#wall #tag-2 {
+body #wall #tag-2 {
   display: none;
 }
-#tag-3 {
+body #wall #tag-3 {
   display: none;
 }
 #wall .parent #tag-4 {
@@ -14,6 +14,6 @@
 #wall .parent #tag-5 {
   display: none;
 }
-div#wall div.parent div:last-child #tag-6 {
+body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
